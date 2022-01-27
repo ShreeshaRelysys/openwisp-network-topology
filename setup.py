@@ -48,7 +48,7 @@ setup(
     description='OpenWISP Network Topology',
     long_description=open('README.rst').read(),
     url='http://openwisp.org',
-    download_url='https://github.com/openwisp/openwisp-network-topology/releases',
+    download_url='https://github.com/ShreeshaRelysys/openwisp-network-topology/releases',
     platforms=['Platform Independent'],
     keywords=['django', 'netjson', 'openwrt', 'networking', 'openwisp'],
     packages=find_packages(exclude=['tests*', 'docs*']),
